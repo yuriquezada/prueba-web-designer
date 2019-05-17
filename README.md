@@ -24,6 +24,14 @@ Es decir, un diseño que comunique el beneficio de recomendarnos con un amigo.
 * http://turismoi.org/mailings/pagoefectivo-ddl.html
 * http://turismoi.org/mailings/taller-de-difusion.html
 
+# Algunas de nuestra páginas
+* Portal Global: https://turismoi.com
+* Portal Perú: https://turismoi.pe
+* Portal España: https://turismoi.es
+* Portal México: https://turismoi.mx
+* Portal Institucional: http://turismoi.org
+* Blog: http://blog.turismoi.org
+
 # A evaluar
 * Version para envio por mailing.
 * Herramientas utilizadas en el desarrollo de la solución.
