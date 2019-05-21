@@ -19,6 +19,9 @@ Es decir, un diseño que comunique el beneficio de recomendarnos con un amigo.
 * Recursos gráficos en /sources
 
 # Ejemplos
+* http://turismoi.org/mailings/regalazo200.html
+* http://turismoi.org/mailings/mailing-mexico-yimis.html
+* http://turismoi.org/mailings/mailing-tours.html
 * http://turismoi.org/mailings/mailing-viajar-peru.html
 * http://turismoi.org/mailings/turismoipe-adonde-quieres-viajar.html
 * http://turismoi.org/mailings/pagoefectivo-ddl.html
