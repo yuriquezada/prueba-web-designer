@@ -16,7 +16,33 @@
 
       </mj-column>
     </mj-section>
- 
+    <mj-section background-color="#fbfbfb">
+      <mj-column>
+        <mj-image width="48px" src="http://turismoi.org/turismoipe/icon-facebook.png" href="https://www.facebook.com/Turismoi.pe"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="48px" src="http://turismoi.org/turismoipe/icon-twitter.png" href="http://www.twitter.com/turismoipe"></mj-image>
+      </mj-column>
+            <mj-column>
+        <mj-image width="48px" src="http://turismoi.org/turismoipe/icon-linkedin.png" href="https://www.linkedin.com/company/3746649?trk=tyah&trkInfo=tarId%3A1404231976960%2Ctas%3Aturismoi%2Cidx%3A1-1-1"></mj-image>
+      </mj-column>
+            </mj-column>
+            <mj-column>
+        <mj-image width="48px" src="http://turismoi.org/turismoipe/icon-youtube.png" href="https://www.youtube.com/user/TurismoiOrg"></mj-image>
+      </mj-column>
+            </mj-column>
+            <mj-column>
+        <mj-image width="48px" src="http://turismoi.org/turismoipe/icon-blog.png" href="http://blog.turismoi.org/"></mj-image>
+      </mj-column>
+            </mj-column>
+            <mj-column>
+        <mj-image width="48px" src="http://turismoi.org/turismoipe/icon-android.png" href="https://play.google.com/store/apps/details?id=m.turismoi.pe"></mj-image>
+      </mj-column>
+            </mj-column>
+            <mj-column>
+        <mj-image width="48px" src="http://turismoi.org/turismoipe/icon-apple.png" href="https://itunes.apple.com/pe/app/turismoi.pe/id1033366145?mt=8"></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section>
       <mj-column vertical-align="top" width="90%">
         <mj-text align="left" font-size="11px" padding-bottom="10px" padding-top="25px" font-family="Helvetica,Arial,sans-serif" line-height="125%" color="#999">Enviado por: Turismoi.pe S.A.C Atención al Cliente / Dirección: Av. Armendariz 234 - Oficina 202, Miraflores, Lima - Perú / Teléfono: 320-4315 / E-mail: <a href="mailto:informes@turismoi.pe" style="color:#333" target="_blank">informes@turismoi.pe</a><br><br>
