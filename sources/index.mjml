@@ -1,0 +1,28 @@
+<mjml>
+  <mj-head>
+    <mj-title>TURISMOI</mj-title>
+    <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" />
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat" background-url="../sources/new-img/banner.jpg">
+      <mj-column>
+        <mj-image width="171px" align="center" padding-top="200px" src="../sources/new-img/logo.png"></mj-image>
+        <mj-text align="center" color="#fff" font-size="40px" font-family="Ubuntu, Helvetica, Arial, sans-serif">¡Comparte tu pasión por viajar!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
+      <mj-column vertical-align="top" width="90%">
+        <mj-text css-class="blue-text" align="center" font-size="20px" padding-bottom="10px" padding-top="25px" font-family= "Source Sans Pro" font-weight="" >Recomienda a tus amigos comprar tours y actividades en https://turismoi.pe. Tus referidos recibirán un 10% de descuento al pagar. Además, por cada referido recibirás un 10% del valor de su compra en efectivo</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#e85034" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px" padding-top="25px">Why choose us?</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px" padding-top="20px">juhjh</mj-text>
+      </mj-column>
+    </mj-section>
+   
+  </mj-body>
+</mjml>
