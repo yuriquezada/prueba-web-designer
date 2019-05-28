@@ -10,25 +10,58 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#fff">
+    <mj-section background-color="#1E3E4C">
+      <mj-column>
+        <mj-image width="171px" align="center" padding="10px" src="../sources/new-img/logo.png"></mj-image>
+
+      </mj-column>
+    </mj-section>
+
     <mj-section vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat" background-url="../sources/new-img/banner.jpg">
       <mj-column>
-        <mj-image width="171px" align="center" padding-top="200px" src="../sources/new-img/logo.png"></mj-image>
-
+        <mj-image width="600px" align="center" src="../sources/new-img/banner.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
       <mj-column vertical-align="top" width="90%">
         <mj-text align="center" color="#1E3E4C" font-size="40px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-top="30px">¡Comparte tu pasión por viajar!</mj-text>
-        <mj-text css-class="blue-text" align="center" font-size="17px" padding-bottom="10px" padding-top="25px" font-family="Source Sans Pro" line-height="150%">Recomienda a tus amigos comprar tours y actividades en <a href="https://turismoi.pe" style="color:#333" target="_blank">https://turismoi.pe</a> . Tus referidos recibirán un 10% de descuento al pagar. Además, por cada referido recibirás un 10% del valor de su compra en efectivo.</mj-text>
-        <mj-button background-color="#F45E43" href="#">Learn more</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section padding-top="20px">
+      <mj-column width="150px" padding="10px">
+        <mj-image src="../sources/new-img/refer1.png" width="100px"></mj-image>
+        <mj-text align="center" color="#1E3E4C" font-size="16px" font-family="Lato, Helvetica, Arial, sans-serif" padding-bottom="6px"><strong>Pasa la voz</mj-text>
+        <mj-text align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">Recomienda a tus amigos comprar tours y actividades en <a href="https://turismoi.pe">https://turismoi.pe</a></mj-text>
+      </mj-column>
+      <mj-column width="160px" padding="10px">
+        <mj-image src="../sources/new-img/refer2.png" width="100px"></mj-image>
+        <mj-text align="center" color="#1E3E4C" font-size="16px" font-family="Lato, Helvetica, Arial, sans-serif" padding-bottom="6px"><strong>Que ingresen tus datos</mj-text>
+        <mj-text align="center" color="#1E3E4C" font-size="13px" line-height="125%" font-family="Lato, Helvetica, Arial, sans-serif">Ellos deben colocar en los comentarios de su compra el correo electrónico de la persona que lo refirió</mj-text>
+      </mj-column>
+      <mj-column width="210px" padding="10px">
+        <mj-image src="../sources/new-img/refer3.png" width="135.5px"></mj-image>
+        <mj-text align="center" color="#1E3E4C" font-size="16px" font-family="Lato, Helvetica, Arial, sans-serif" padding-bottom="6px"><strong>Disfruten</mj-text>
+        <mj-text align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">* El viajero nuevo recibirá 10% de descuento sobre esa compra al instante.
+          <br>
+          * Por cada referido, tú recibirás un 10% del valor de su compra en efectivo
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text padding-top="20px" align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">¿Qué esperas?
+        </mj-text>
+        <mj-button background-color="#F45E43" href="#" padding="20px">¡Invita a un amigo!</mj-button>
+
+      </mj-column>
+    </mj-section>
+
     <mj-section background-color="#e85034" vertical-align="middle" full-width="full-width">
       <mj-column width="100%" vertical-align="middle">
-        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px" padding-top="25">¿Quieres saber más?</mj-text>
-        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20"></mj-divider>
-        <mj-text align="center" color="#f8d5d1" font-size="11px" padding-bottom="25px" padding-top="20">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing
-          elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-top="25px">¿Tienes más dudas o consultas?</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="10px" padding-top="20px"></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="12px" padding-bottom="25px" padding="10px 20px" line-height="130%">En caso de que una de las partes tenga dudas sobre la promoción puede comunicarse con <a href="mailto:ventas@turismoi.pe" style="color:#fff" target="_blank">ventas@turismoi.pe</a> o por nuestro chat en linea.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="30px 100px 30px">
@@ -56,7 +89,7 @@
     </mj-section>
     <mj-section>
       <mj-column vertical-align="top" width="90%">
-        <mj-text align="left" font-size="11px" padding-bottom="10px" font-family="Helvetica,Arial,sans-serif" line-height="125%" color="#999">Enviado por: Turismoi.pe S.A.C Atención al Cliente / Dirección: Av. Armendariz 234 - Oficina 202, Miraflores, Lima - Perú / Teléfono: 320-4315 / E-mail: <a href="mailto:informes@turismoi.pe" style="color:#333" target="_blank">informes@turismoi.pe</a><br><br>
+        <mj-text align="left" font-size="9px" padding-bottom="10px" font-family="Helvetica,Arial,sans-serif" line-height="125%" color="#999">Enviado por: Turismoi.pe S.A.C Atención al Cliente / Dirección: Av. Armendariz 234 - Oficina 202, Miraflores, Lima - Perú / Teléfono: 320-4315 / E-mail: <a href="mailto:informes@turismoi.pe" style="color:#333" target="_blank">informes@turismoi.pe</a><br><br>
           Aviso Legal: *El presente correo electrónico se envía conforme a lo dispuesto en la Ley N° 28494, modificada por Ley N° 29246 y el D.S. 031-05-MTC - Ley Antispam Peruana y su Reglamento. En caso ya no desee recibir esta clase de comunicaciones, por favor envíe un correo electrónico a <a href="mailto:informes@turismoi.pe" style="color:#333">informes@turismoi.pe</a> con el asunto “Solicitud de baja”. Mediante esta solicitud usted será dado de baja del portal Turismoi.pe y de todos los servicios que tenga activos con nosotros. Su remoción de nuestra base de datos será tramitada en un máximo de 48 horas.
           <br><br>
           Copyright © 2016 Turismoi.pe. Todos los derechos reservados.</mj-text>
