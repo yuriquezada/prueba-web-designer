@@ -12,14 +12,14 @@
   <mj-body background-color="#fff">
     <mj-section background-color="#1E3E4C">
       <mj-column>
-        <mj-image width="171px" align="center" padding="10px" src="../new-img/logo.png"></mj-image>
+        <mj-image width="171px" align="center" padding="10px" src="../img/logo.png"></mj-image>
 
       </mj-column>
     </mj-section>
 
-    <mj-section vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat" background-url="../new-img/banner.jpg">
+    <mj-section vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat" background-url="../img/banner.jpg">
       <mj-column>
-        <mj-image width="600px" align="center" src="../new-img/banner.jpg"></mj-image>
+        <mj-image width="600px" align="center" src="../img/banner.jpg"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
@@ -29,17 +29,17 @@
     </mj-section>
     <mj-section padding-top="20px">
       <mj-column width="150px" padding="10px">
-        <mj-image src="../new-img/refer1.png" width="100px"></mj-image>
+        <mj-image src="../img/refer1.png" width="100px"></mj-image>
         <mj-text align="center" color="#1E3E4C" font-size="16px" font-family="Lato, Helvetica, Arial, sans-serif" padding-bottom="6px"><strong>Pasa la voz</mj-text>
         <mj-text align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">Recomienda a tus amigos comprar tours y actividades en <a href="https://turismoi.pe">https://turismoi.pe</a></mj-text>
       </mj-column>
       <mj-column width="160px" padding="10px">
-        <mj-image src="../new-img/refer2.png" width="100px"></mj-image>
+        <mj-image src="../img/refer2.png" width="100px"></mj-image>
         <mj-text align="center" color="#1E3E4C" font-size="16px" font-family="Lato, Helvetica, Arial, sans-serif" padding-bottom="6px"><strong>Que ingresen tus datos</mj-text>
         <mj-text align="center" color="#1E3E4C" font-size="13px" line-height="125%" font-family="Lato, Helvetica, Arial, sans-serif">Ellos deben colocar en los comentarios de su compra el correo electrónico de la persona que lo refirió</mj-text>
       </mj-column>
       <mj-column width="210px" padding="10px">
-        <mj-image src="../new-img/refer3.png" width="135.5px"></mj-image>
+        <mj-image src="../img/refer3.png" width="135.5px"></mj-image>
         <mj-text align="center" color="#1E3E4C" font-size="16px" font-family="Lato, Helvetica, Arial, sans-serif" padding-bottom="6px"><strong>Disfruten</mj-text>
         <mj-text align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">* El viajero nuevo recibirá 10% de descuento sobre esa compra al instante.
           <br>
