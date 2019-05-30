@@ -3,6 +3,7 @@
     <mj-title>TURISMOI</mj-title>
 
     <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" />
+        <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Montserrat" />
     <mj-attributes>
       <mj-all padding="0px"></mj-all>
       <mj-text font-family="sans-serif" color="#8e8b85" />
@@ -17,9 +18,10 @@
     </mj-section>
 
     <mj-section background-size="cover" background-repeat="no-repeat" background-url="../img/banner_.jpg">
-      <mj-column>
+      <mj-column >
         <mj-text align="center" color="#fff" font-size="30px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="200px 30px 30px 30px">¡Recomienda nuestros tours y gana el 10% de las
-          compras!📣</mj-text>      </mj-column>
+          compras!📣</mj-text>
+      </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="90%">
@@ -46,48 +48,58 @@
       <mj-column>
         <mj-text padding-top="20px" align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">¿Qué esperas?
         </mj-text>
-        <mj-button background-color="#F45E43" href="landing.html" padding="20px">Ver más</mj-button>
+        <mj-button background-color="#F45E43" border-radius="6px" href="landing.html" padding="20px">Ver más</mj-button>
 
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#e85034">
       <mj-column width="100%">
-        <mj-text align="center" color="#ffffff" font-size="18px" padding-top="25px">¿Tienes más dudas o consultas?</mj-text>
-        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="10px" padding-top="20px"></mj-divider>
-        <mj-text align="center" color="#f8d5d1" font-size="12px" padding-bottom="25px" padding="10px 20px" line-height="130%">En caso de que una de las partes tenga dudas sobre la promoción puede comunicarse con <a href="mailto:ventas@turismoi.pe" style="color:#fff" target="_blank">ventas@turismoi.pe</a> o por nuestro chat en linea.</mj-text>
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-top="25px" font-family="Ubuntu, Helvetica, Arial, sans-serif" >¿Tienes más dudas o consultas?</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="5px" padding-top="10px"></mj-divider>
+        <mj-text align="center" color="#f8d5d1" font-size="12px" padding-bottom="25px" padding="10px 20px" line-height="130%" font-family="Ubuntu, Helvetica, Arial, sans-serif" >En caso de que una de las partes tenga dudas sobre la promoción puede comunicarse con <a href="mailto:ventas@turismoi.pe" style="color:#fff" target="_blank">ventas@turismoi.pe</a> o por nuestro chat en linea.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="30px 100px 30px">
-      <mj-column>
-        <mj-image src="http://turismoi.org/turismoipe/icon-facebook.png" href="https://www.facebook.com/Turismoi.pe" width="30px" padding="0 2px"></mj-image>
+
+    <mj-section background-color="#1E3E4C">
+      <mj-column width="500px">
+        <mj-text color="#E0DDDC" padding-top="30px" font-size="12px" align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif" >
+          Síguenos en nuestras redes sociales
+        </mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="http://turismoi.org/turismoipe/icon-twitter.png" href="http://www.twitter.com/turismoipe" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image src="http://turismoi.org/turismoipe/icon-linkedin.png" href="https://www.linkedin.com/company/3746649?trk=tyah&trkInfo=tarId%3A1404231976960%2Ctas%3Aturismoi%2Cidx%3A1-1-1" alt="ins" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image src="http://turismoi.org/turismoipe/icon-youtube.png" href="https://www.youtube.com/user/TurismoiOrg" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image src="http://turismoi.org/turismoipe/icon-blog.png" href="http://blog.turismoi.org/" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image src="http://turismoi.org/turismoipe/icon-android.png" href="https://play.google.com/store/apps/details?id=m.turismoi.pe" width="30px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-image src="http://turismoi.org/turismoipe/icon-apple.png" href="https://itunes.apple.com/pe/app/turismoi.pe/id1033366145?mt=8" width="30px"></mj-image>
-      </mj-column>
+
+    </mj-section>
+    <mj-section background-color="#1E3E4C" padding="15px 65px 30px">
+      <mj-group>
+        <mj-column>
+          <mj-image src="http://turismoi.org/turismoipe/icon-facebook.png" href="https://www.facebook.com/Turismoi.pe" width="30px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://turismoi.org/turismoipe/icon-twitter.png" href="http://www.twitter.com/turismoipe" width="30px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://turismoi.org/turismoipe/icon-linkedin.png" href="https://www.linkedin.com/company/3746649?trk=tyah&trkInfo=tarId%3A1404231976960%2Ctas%3Aturismoi%2Cidx%3A1-1-1" alt="ins" width="30px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://turismoi.org/turismoipe/icon-youtube.png" href="https://www.youtube.com/user/TurismoiOrg" width="30px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://turismoi.org/turismoipe/icon-blog.png" href="http://blog.turismoi.org/" width="30px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://turismoi.org/turismoipe/icon-android.png" href="https://play.google.com/store/apps/details?id=m.turismoi.pe" width="30px"></mj-image>
+        </mj-column>
+        <mj-column>
+          <mj-image src="http://turismoi.org/turismoipe/icon-apple.png" href="https://itunes.apple.com/pe/app/turismoi.pe/id1033366145?mt=8" width="30px"></mj-image>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section>
       <mj-column width="90%">
-        <mj-text align="left" font-size="9px" padding-bottom="10px" font-family="Helvetica,Arial,sans-serif" line-height="125%" color="#999">Enviado por: Turismoi.pe S.A.C Atención al Cliente / Dirección: Av. Armendariz 234 - Oficina 202, Miraflores, Lima - Perú / Teléfono: 320-4315 / E-mail: <a href="mailto:informes@turismoi.pe" style="color:#333" target="_blank">informes@turismoi.pe</a><br><br>
+        <mj-text align="left" font-size="9px" padding="10px" font-family="Helvetica,Arial,sans-serif" line-height="125%" color="#999">Enviado por: Turismoi.pe S.A.C Atención al Cliente / Dirección: Av. Armendariz 234 - Oficina 202, Miraflores, Lima - Perú / Teléfono: 320-4315 / E-mail: <a href="mailto:informes@turismoi.pe" style="color:#333" target="_blank">informes@turismoi.pe</a><br><br>
           Aviso Legal: *El presente correo electrónico se envía conforme a lo dispuesto en la Ley N° 28494, modificada por Ley N° 29246 y el D.S. 031-05-MTC - Ley Antispam Peruana y su Reglamento. En caso ya no desee recibir esta clase de comunicaciones, por favor envíe un correo electrónico a <a href="mailto:informes@turismoi.pe" style="color:#333">informes@turismoi.pe</a> con el asunto “Solicitud de baja”. Mediante esta solicitud usted será dado de baja del portal Turismoi.pe y de todos los servicios que tenga activos con nosotros. Su remoción de nuestra base de datos será tramitada en un máximo de 48 horas.
           <br><br>
           Copyright © 2016 Turismoi.pe. Todos los derechos reservados.</mj-text>
-
       </mj-column>
 
     </mj-section>

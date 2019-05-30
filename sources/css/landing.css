@@ -34,4 +34,10 @@ body {
   text-align: center;
 }
 
+.terms {
+  height: 100vh;
+  background-color: #1E3E4C;
+  color: #fff;
+}
+
 /*# sourceMappingURL=landing.css.map */
