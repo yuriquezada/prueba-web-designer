@@ -1,18 +1,23 @@
-.home header {
-  display: flex;
-  justify-content: flex-end;
-}
-
 body {
   margin: auto;
 }
 
 .home {
-  background-image: url(../img/foto-divertida.jpg);
+  background-image: url(../img/banner_.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
   width: 100%;
+  font-family: "Ubuntu", sans-serif;
+}
+.home header {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 30px;
+}
+.home h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
 }
 
 /*# sourceMappingURL=landing.css.map */
