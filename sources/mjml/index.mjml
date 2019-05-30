@@ -6,7 +6,7 @@
     <mj-attributes>
       <mj-all padding="0px"></mj-all>
       <mj-text font-family="sans-serif" color="#8e8b85" />
-      <mj-class name="ico-red" vertical-align="center" width="100%" />
+      <mj-class name="ico-red" width="100%" />
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#fff">
@@ -17,27 +17,27 @@
       </mj-column>
     </mj-section>
 
-    <mj-section vertical-align="middle" background-size="cover" background-repeat="no-repeat" background-url="../img/banner_.jpg">
+    <mj-section background-size="cover" background-repeat="no-repeat" background-url="../img/banner_.jpg">
       <mj-column>
         <mj-text align="center" color="#fff" font-size="30px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="200px 30px 30px 30px">¡Recomienda nuestros tours y gana el 10% de las
           compras!📣</mj-text>      </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" vertical-align="top">
-      <mj-column vertical-align="top" width="90%">
+    <mj-section background-color="#ffffff">
+      <mj-column width="90%">
         <mj-text align="center" color="#1E3E4C" font-size="25px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding-top="30px">Sigue estos pasos:</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="20px">
-      <mj-column width="150px" padding="10px">
-        <mj-image src="../img/refer1.png" width="100px"></mj-image>
+      <mj-column width="160px" padding="10px">
+        <mj-image src="../img/refer1.jpg"></mj-image>
         <mj-text align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">Recomienda a tus amigos comprar en <a href="https://turismoi.pe">https://turismoi.pe</a></mj-text>
       </mj-column>
       <mj-column width="160px" padding="10px">
-        <mj-image src="../img/refer2.png" width="100px"></mj-image>
+        <mj-image src="../img/refer2.jpg"></mj-image>
         <mj-text align="center" color="#1E3E4C" font-size="13px" line-height="125%" font-family="Lato, Helvetica, Arial, sans-serif">Ellos deben colocar en los datos requeridos de la persona que lo refirió</mj-text>
       </mj-column>
-      <mj-column width="210px" padding="10px">
-        <mj-image src="../img/refer3.png" width="135.5px"></mj-image>
+      <mj-column width="160px" padding="10px">
+        <mj-image src="../img/refer3.jpg"></mj-image>
         <mj-text align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">Disfruten los beneficios que tenemos para ti y tus amigos referidos.
         </mj-text>
       </mj-column>
@@ -47,13 +47,13 @@
       <mj-column>
         <mj-text padding-top="20px" align="center" color="#1E3E4C" font-size="13px" font-family="Lato, Helvetica, Arial, sans-serif" line-height="125%">¿Qué esperas?
         </mj-text>
-        <mj-button background-color="#F45E43" href="#" padding="20px">Ver más</mj-button>
+        <mj-button background-color="#F45E43" href="landing.html" padding="20px">Ver más</mj-button>
 
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#e85034" vertical-align="middle">
-      <mj-column width="100%" vertical-align="middle">
+    <mj-section background-color="#e85034">
+      <mj-column width="100%">
         <mj-text align="center" color="#ffffff" font-size="18px" padding-top="25px">¿Tienes más dudas o consultas?</mj-text>
         <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="10px" padding-top="20px"></mj-divider>
         <mj-text align="center" color="#f8d5d1" font-size="12px" padding-bottom="25px" padding="10px 20px" line-height="130%">En caso de que una de las partes tenga dudas sobre la promoción puede comunicarse con <a href="mailto:ventas@turismoi.pe" style="color:#fff" target="_blank">ventas@turismoi.pe</a> o por nuestro chat en linea.</mj-text>
@@ -83,7 +83,7 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column vertical-align="top" width="90%">
+      <mj-column width="90%">
         <mj-text align="left" font-size="9px" padding-bottom="10px" font-family="Helvetica,Arial,sans-serif" line-height="125%" color="#999">Enviado por: Turismoi.pe S.A.C Atención al Cliente / Dirección: Av. Armendariz 234 - Oficina 202, Miraflores, Lima - Perú / Teléfono: 320-4315 / E-mail: <a href="mailto:informes@turismoi.pe" style="color:#333" target="_blank">informes@turismoi.pe</a><br><br>
           Aviso Legal: *El presente correo electrónico se envía conforme a lo dispuesto en la Ley N° 28494, modificada por Ley N° 29246 y el D.S. 031-05-MTC - Ley Antispam Peruana y su Reglamento. En caso ya no desee recibir esta clase de comunicaciones, por favor envíe un correo electrónico a <a href="mailto:informes@turismoi.pe" style="color:#333">informes@turismoi.pe</a> con el asunto “Solicitud de baja”. Mediante esta solicitud usted será dado de baja del portal Turismoi.pe y de todos los servicios que tenga activos con nosotros. Su remoción de nuestra base de datos será tramitada en un máximo de 48 horas.
           <br><br>
