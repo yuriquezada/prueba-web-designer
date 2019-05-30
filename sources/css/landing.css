@@ -21,6 +21,9 @@ body {
   font-size: 25px;
 }
 
+.how-it-works {
+  height: 100vh;
+}
 .how-it-works h2 {
   font-family: "Ubuntu", sans-serif;
 }

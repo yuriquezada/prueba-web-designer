@@ -13,7 +13,6 @@
     <mj-section background-color="#1E3E4C">
       <mj-column>
         <mj-image width="171px" align="center" padding="10px" src="../img/logo.png"></mj-image>
-
       </mj-column>
     </mj-section>
 
