@@ -34,10 +34,27 @@ body {
   text-align: center;
 }
 
+.video {
+  height: 60vh;
+}
+
 .terms {
-  height: 100vh;
+  height: 60vh;
   background-color: #1E3E4C;
   color: #fff;
+}
+.terms img {
+  border-left: 15px solid #ff7200;
+}
+
+.video {
+  height: 65vh;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+footer {
+  background-color: #1E3E4C;
 }
 
 /*# sourceMappingURL=landing.css.map */
